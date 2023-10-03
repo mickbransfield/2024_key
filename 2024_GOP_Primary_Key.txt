@@ -1,4 +1,4 @@
-﻿super_pac|fec_pac_id|answer|candidate_id|candidate_name|fec_cand_id|fec_cte_id|race_id|cycle|office_type|stage|party|state|PI_market|PI_contract
+﻿super_pac|fec_pac_id|answer|candidate_id|candidate_name|CAND_ID|CMTE_ID|race_id|cycle|office_type|stage|party|state|PI_market|PI_contract
 Best of America PAC|C00842344|Burgum|31006|Doug Burgum|P40013518|C00842302|8916|2024|U.S. President|primary|REP|National|7053|31317
 Tell It Like It Is PAC|C00841593|Christie|16659|Chris Christie|P60008521|C00842237|8916|2024|U.S. President|primary|REP|National|7053|31239
 Never Back Down Inc.|C00834077|DeSantis|16646|Ron DeSantis|P40013039|C00841130|8916|2024|U.S. President|primary|REP|National|7053|24814
